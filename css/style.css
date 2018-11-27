@@ -1,0 +1,11 @@
+
+
+/*////////// BACKGROUNDS //////////*/
+
+.filmstrip {
+  display: table;
+  width: 100%;
+  background-image: url(../images/filmstrip1.png) no-repeat center top;
+  background-color: #000;
+  background-size: cover;
+}
